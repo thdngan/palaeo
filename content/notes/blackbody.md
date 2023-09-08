@@ -20,4 +20,6 @@ According to the above definition, a blackbody will emit radiation in all parts 
 
 Wien's Displacement Law:
 
-$$\lambda_{peak} = \dfrac{b}{T}$$
+$$
+\lambda_{peak} = \dfrac{b}{T}
+$$

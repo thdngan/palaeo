@@ -58,7 +58,9 @@ Reflectance values range from 0 to 1 and are stored in floating point data forma
 
 The metadata file "MLT.TXT"  provides rescaling factors and parameters that can be used to manually convert Landsat data to TOA reflectance with the following formula, using the tool **Band Math**.
 
-$$\rho_\lambda = \dfrac{M_\rho Q_{cal}+A_\rho}{cos(\theta_{SZ})} = \dfrac{M_\rho Q_{cal}+A_\rho}{sin(\theta_{SE})}$$
+$$
+\rho_\lambda = \dfrac{M_\rho Q_{cal}+A_\rho}{cos(\theta_{SZ})} = \dfrac{M_\rho Q_{cal}+A_\rho}{sin(\theta_{SE})}
+$$
 where:
 - $M_\rho$ is the band-specific multiplicative rescaling factor (REFLECTANCE_MULT_BAND_x in the metadata, where x is the band number).
 - $A_\rho$ is the band-specific additive rescaling factor (REFLECTANCE_ADD_BAND_x).
@@ -77,11 +79,18 @@ NDVI stands for Normalized Difference Vegetation Index and NDWI stands for Norma
 
 The Normalized Difference Vegetation Index (NDVI) is used to evaluate vegetation greenness and is important in evaluating vegetation density. The difference in near-infrared (which plant significantly reflects) and red light (which plant absorbs) is used to quantify vegetation.
 
-$$NDVI = \dfrac{NIR - Red}{NIR+Red}$$
+$$
+NDVI = \dfrac{NIR - Red}{NIR+Red}
+$$
 
 On the other hand, the Normalized Difference Water Index (NDWI) is used to evaluate changes in water content in bodies of water. Because water bodies absorb light substantially in the visible to infrared electromagnetic radiation spectrum, NDWI highlights water bodies using green and near-infrared wavelengths.
 
-$$NDWI = \dfrac{Green - NIR}{Green +NIR}$$
+
+$$
+NDWI = \dfrac{Green - NIR}{Green +NIR}
+$$
+
+
 
 ![[images/image processing/bands_reflectance.png]]
 
@@ -89,8 +98,16 @@ From the above figure, it is apparent that reflection in **NIR** wavelength over
 
 For Landsat 8, band 3 represents visible green light, band 4 represents visible red light and the near-infrared is shown in band 5. Therefore, for Landsat 8 data, we can calculate the NDVI and NDWI like below:
 
-$$NDVI = \dfrac{B5-B4}{B5+B4}$$
-$$NDWI = \dfrac{B3-B5}{B3+B5}$$
+
+$$
+NDVI = \dfrac{B5-B4}{B5+B4}
+$$
+
+
+$$
+NDWI = \dfrac{B3-B5}{B3+B5}
+$$
+
 Using the NDVI tool on a layerstacked image (for example, layerstacking band 3 and band 5 to calculate NDWI), we can obtain the following result:
 
 ![[images/image processing/qinghai landsat ndwi35 water.png]]

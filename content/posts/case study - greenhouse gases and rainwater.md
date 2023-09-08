@@ -44,44 +44,50 @@ $$
 
 where $[H^+]$ is the molar concentration of hydrogen ions.
 
-
-
-
-
-
-  
-
 The chemistry of rainfall is governed by the following five nonlinear systems of equations:
 
   
 
   
 
-$$K_1 = 10^6\dfrac{{[H^+]}{[HCO_3^-]}}{p_{CO_2}K_H} $$
-
-
-
-  
-
-$$K_2 = \dfrac{[H^+][CO_3^{2-}]}{[HCO_3^-]} $$
+$$
+K_1 = 10^6\dfrac{{[H^+]}{[HCO_3^-]}}{p_{CO_2}K_H}
+\tag{2}
+$$
 
   
 
-  
-
-$$K_w = {[H^+]}{[OH^-]} $$
-
-  
-
-  
-
-$$c_T = \dfrac{p_{CO_2}K_H}{10^6} + {[HCO_3^-]} + {[CO_3^{2-}]} $$
+$$
+K_2 = \dfrac{[H^+][CO_3^{2-}]}{[HCO_3^-]}
+\tag{3}
+$$
 
   
 
   
 
-$${[HCO_3^-]} + 2{[CO_3^{2-}]} + {[OH^-]} - {[H^+]} = 0 $$
+$$
+K_w = {[H^+]}{[OH^-]}
+\tag{4}
+$$
+
+  
+
+  
+
+$$
+c_T = \dfrac{p_{CO_2}K_H}{10^6} + {[HCO_3^-]} + {[CO_3^{2-}]}
+\tag{5}
+$$
+
+  
+
+  
+
+$$
+{[HCO_3^-]} + 2{[CO_3^{2-}]} + {[OH^-]} - {[H^+]} = 0
+\tag{6}
+$$
 
   
 
@@ -129,7 +135,11 @@ To begin, we may eliminate the unknown values by combining them into a single fu
 
   
 
-From (2): $$[HCO_3^-] = \dfrac{p_{CO_2}K_HK_1}{10^6[H^+]}\tag*{(7)}$$
+From (2):
+$$
+[HCO_3^-] = \dfrac{p_{CO_2}K_HK_1}{10^6[H^+]}
+\tag*{(7)}
+$$
 
   
 
@@ -137,7 +147,10 @@ From (3) and (7):
 
   
 
-$$[CO_3^{2-}] = \dfrac{p_{CO_2}K_HK_1K_2}{10^6[H^+]^2}\tag*{(8)}$$
+$$
+[CO_3^{2-}] = \dfrac{p_{CO_2}K_HK_1K_2}{10^6[H^+]^2}
+\tag*{(8)}
+$$
 
   
 
@@ -145,7 +158,10 @@ Substitute (7), (8) and (4) into (6), we have:
 
   
 
-$$\dfrac{p_{CO_2}K_HK_1}{10^6[H^+]} + 2\dfrac{p_{CO_2}K_HK_1K_2}{10^6[H^+]^2} + \dfrac{K_w}{[H^+]} - [H^+] = 0\tag*{(9)}$$
+$$
+\dfrac{p_{CO_2}K_HK_1}{10^6[H^+]} + 2\dfrac{p_{CO_2}K_HK_1K_2}{10^6[H^+]^2} + \dfrac{K_w}{[H^+]} - [H^+] = 0
+\tag*{(9)}
+$$
 
   
 
@@ -179,7 +195,7 @@ Now we can substitute $p_{CO_2}=315$ and $p_{CO_2}=375$ to the MATLAB script bel
 
   
 
-```MATLAB
+```Matlab
 
   
 

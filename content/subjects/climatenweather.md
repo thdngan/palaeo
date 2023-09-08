@@ -25,6 +25,6 @@ title: "Climate & Weather"
 
 
 <br></br>
-The above are important writings, click <a href="/quartz/tags/climate">here →</a> to see all posts and notes on Climate, and <a href="/quartz/tags/weather">here →</a> to see all posts and notes on Weather.
+The above are important writings, click <a href="/tags/climate">here →</a> to see all posts and notes on Climate, and <a href="/tags/weather">here →</a> to see all posts and notes on Weather.
 
 

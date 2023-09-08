@@ -23,7 +23,7 @@ Since I don't have all the data, the results are basically just approximations a
 
 In order to display the spline predictions and first and second derivatives at intervals of 1 meter down into the water column, I first interpolated using the available limited data. I then plotted the second derivative, gradient, and temperature versus depth.
 
-```MATLAB
+```Matlab
 T = [11.1 11.1 11.7 13.9 20.6 22.8 22.8 22.8];
 
 z = [27.2 22.9 18.3 13.7 9.1 4.9 2.3 0];

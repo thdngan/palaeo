@@ -7,7 +7,7 @@ tags:
 
 Write a computer program capable of reducing the number of intensity levels in an image from 256 to 2, in integer powers of 2. The desired number of intensity levels needs to be a variable input to your program.
 
-```
+```Matlab
 size = '128';
 a = imread(['https://avatars.githubusercontent.com/u/103092148?v=4' size]);
 imshow(a);
@@ -37,7 +37,7 @@ end
 
 Rotate the image by 45 and 90 degrees (Matlab provides simple command lines for doing this).
 
-```
+```Matlab
 d = imread('https://avatars.githubusercontent.com/u/103092148?v=4');
 r45 = imrotate(d,45);
 imshow(r45);

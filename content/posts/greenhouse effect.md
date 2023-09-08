@@ -39,7 +39,11 @@ Then we get the following table for the energy budgets that enter and exit the s
 |Ground|$\dfrac{L(1 - \alpha)}{4}+\epsilon \sigma T^4_a$|$\epsilon \sigma T^4_g$|
 |Atmosphere|$\epsilon \sigma T^4_g$|$2\epsilon \sigma T^4_a$|
 
-To get the energy budget for the Earth system overall, we could add them up and obtain: $$\dfrac{L(1 - \alpha)}{4} = \epsilon \sigma T^4_a$$
+To get the energy budget for the Earth system overall, we could add them up and obtain:
+
+$$
+\dfrac{L(1 - \alpha)}{4} = \epsilon \sigma T^4_a
+$$
 
 However, there is a simpler, much less complicated solution: create a general budget that depicts the whole system. We may draw a line above the atmosphere representing the border to space (as depicted in the figu  re). And the results would be the same as what we obtained previously.
 
@@ -61,9 +65,17 @@ a) What would be the equilibrium temperature of the surface of the moon, where i
 
 *We have: L = 1350 W/m<sup>2</sup>, α = 0.33.*
 
-*The equilibirum equation for energy:* $$E_{in} = E_{out}$$
-$$L(1-\alpha)=\epsilon \sigma T^4_g$$
-$$T_g\approx 355.4$$
+*The equilibirum equation for energy:*
+
+$$
+E_{in} = E_{out}
+$$
+$$
+L(1-\alpha)=\epsilon \sigma T^4_g
+$$
+$$
+T_g\approx 355.4
+$$
 b) What would be the equilibrium temperature, where energy outflow equals energy inflow, on the moon at night, in Kelvins?
 
 *At night there is no sunlight directed towards the surface, so basically no energy flow. The temperature would be 0K.*
@@ -72,21 +84,39 @@ b) What would be the equilibrium temperature, where energy outflow equals energy
 Insert another atmospheric layer into the model, just like the first one.
 ![[images/climate modeling/greenhouseeffect4.svg]]
 *Arrow a represents the energy inflow and arrow f represents the energy outflow of the overall system. We have:*
-$$\dfrac{L(1-\alpha)}{4}=\epsilon \sigma T^4_{layer2}$$
-$$T_{layer2}=254.1K$$
+$$
+\dfrac{L(1-\alpha)}{4}=\epsilon \sigma T^4_{layer2}
+$$
+$$
+T_{layer2}=254.1K
+$$
 *Similarly, the energy budget of layer 2 at equilibrium:*
-$$\epsilon \sigma T^4_{layer1}=2\epsilon \sigma T^4_{layer2}$$
-$$(\dfrac{T_{layer1}}{T_{layer2}})^4=2$$
-$$\dfrac{T_{layer1}}{T_{layer2}}=2^{1/4}$$
+$$
+\epsilon \sigma T^4_{layer1}=2\epsilon \sigma T^4_{layer2}
+$$
+$$
+(\dfrac{T_{layer1}}{T_{layer2}})^4=2
+$$
+$$
+\dfrac{T_{layer1}}{T_{layer2}}=2^{1/4}
+$$
 *Energy budget for layer 1:*
-$$\epsilon \sigma(T^4_g+T^4_{layer2})=2\epsilon \sigma T^4_{layer1}$$
-$$\dfrac{T^4_g+T^4_{layer2}}{T^4_{layer1}}=2$$
-$$(\dfrac{T_g}{T_{layer1}})^4=2-(\dfrac{T_{layer2}}{T_{layer1}})^4=2-\dfrac{1}{2}=\dfrac{3}{2}$$
+$$
+\epsilon \sigma(T^4_g+T^4_{layer2})=2\epsilon \sigma T^4_{layer1}
+$$
+$$
+\dfrac{T^4_g+T^4_{layer2}}{T^4_{layer1}}=2
+$$
+$$
+(\dfrac{T_g}{T_{layer1}})^4=2-(\dfrac{T_{layer2}}{T_{layer1}})^4=2-\dfrac{1}{2}=\dfrac{3}{2}
+$$
 ### Nuclear Winter
 Go back to the 1-layer model, but change it so that the atmospheric layer absorbs visible light rather than allowing to pass through.
 ![[images/climate modeling/greenhouseeffect5.svg]]
 This could happen if the upper atmosphere were filled with dust. For simplicity, assume that the albedo of the earth remains at 30%, even though in the real world it might change with a dusty atmosphere. What is the ratio of T<sub>g</sub> / T<sub>a</sub> in this case?
 
 *The answer is 1. We can see that the energy budget for the Earth at equilibrium would be:*
-$$\epsilon \sigma T^4_g=\epsilon \sigma T^4_a$$
+$$
+\epsilon \sigma T^4_g=\epsilon \sigma T^4_a
+$$
 *So apparently,* $T_g=T_a$.
