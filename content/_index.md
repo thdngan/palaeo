@@ -5,6 +5,8 @@ Hello there, I'm Ryan. Welcome to my [digital arboretum](https://nesslabs.com/di
 
 *I know the penguins seem out of place given the whole gardening theme, but heyyy aren't they adorable? They are my own drawings!*
 
+
+
 ## How to navigate
 
 You can simply move from note to note by clicking on internal links on each page or on the nodes of the interactive graph at the bottom. You can also use the search tool at the top (or Ctrl + K) to look for pages and keywords. Alternatively, you may look at a list of my [topics here](file:///home/ryan/quartz/content/subjects) or click on tags to look for notes in the same categories.
@@ -15,6 +17,8 @@ I wrote blogs across a variety of platforms for a while, but I couldn't settle o
 
 I've had a lot of fun setting up my own garden (and a little headache because I'm new to all of this haha). Many thanks to Jacky Zhao for creating this incredible [tool](https://github.com/jackyzha0/quartz)!
 
+<!---
 https://thdngan.github.io/quartz/subjects
+-->
 
 
