@@ -37,7 +37,7 @@ where $p_{CO_2}$ is the atmospheric $CO_2$ partial pressure (ppm). According to 
 
 In addition to contributing to global warming, greenhouse gases may alter the chemistry of the atmosphere. How the rise in carbon dioxide is influencing rainwater's pH is one issue we can solve. It is generally known that carbon dioxide is the main factor of the pH of the rain outside of urban and industrial regions. The activity of hydrogen ions, and hence the acidity of a solution, are measured by pH. It may be calculated as follows for diluted aqueous solutions:
 
-$$pH = -log_{10}{[H^+]}$$
+$$pH = -log_{10}{[H^+]}\tag{1}$$
 
 where $[H^+]$ is the molar concentration of hydrogen ions.
 
