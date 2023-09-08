@@ -2,9 +2,9 @@
 title: "Signal/Image Processing"
 ---
 
-## [[posts/NDWI segmentation threshold in image processing|NDWI Segmentation Threshold in Image Processing]]
+1. [[posts/NDWI segmentation threshold in image processing|NDWI Segmentation Threshold in Image Processing]]
 
-## [[posts/sampling and quantization|Sampling and Quantization in Image Processing]]
+2. [[posts/sampling and quantization|Sampling and Quantization in Image Processing]]
 
 
 <br></br>
