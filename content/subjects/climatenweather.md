@@ -2,7 +2,7 @@
 title: "Climate & Weather"
 ---
 
-## [[posts/case study - greenhouse gases and rainwater|[Case Study] Greenhouse gases and rainwater]]
+## [[posts/case study - greenhouse gases and rainwater|(Case Study) Greenhouse gases and rainwater]]
 
 ## [[posts/predict weather ML|(PROJECT) Predict the weather using Machine Learning]]
 
