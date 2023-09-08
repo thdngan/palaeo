@@ -9,7 +9,7 @@ Hello there, I'm Ryan. Welcome to my [digital arboretum](https://nesslabs.com/di
 
 ## How to navigate
 
-You can simply move from note to note by clicking on internal links on each page or on the nodes of the interactive graph at the bottom. You can also use the search tool at the top (or Ctrl + K) to look for pages and keywords. Alternatively, you may look at a list of my [topics here](https://thdngan.github.io/quartz/content/subjects) or click on tags to look for notes in the same categories.
+You can simply move from note to note by clicking on internal links on each page or on the nodes of the interactive graph at the bottom. You can also use the search tool at the top (or Ctrl + K) to look for pages and keywords. Alternatively, you may look at a list of my [topics here](https://thdngan.github.io/quartz/content/subjects/) or click on tags to look for notes in the same categories.
 
 ## Why this place?
 
