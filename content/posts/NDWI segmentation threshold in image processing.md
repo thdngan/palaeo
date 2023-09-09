@@ -46,7 +46,7 @@ Then what do we use instead?
 
 Remote sensing instruments directly measure radiance. This includes radiation reflected from the surface, as well as radiation reflected from nearby pixels, and perhaps most significantly, radiation reflected from clouds! Furthermore, radiance is affected not only by the intensity and direction of the target's illumination, but also by its orientation and position.
 
-*Read more about the energy transfer in the atmosphere through my posts on [[subjects/climatenweather|climate and weather]]*
+*Read more about the energy transfer in the atmosphere through my posts on [[climate n weather|climate and weather]]*
 
 ![[images/image processing/reflectance through atmosphere.png]]
 
