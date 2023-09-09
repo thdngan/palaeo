@@ -1,5 +1,5 @@
 ---
-title: The Arboretum
+title: Welcome!
 ---
 
 <img id="banner" src="/images/banner.svg">
