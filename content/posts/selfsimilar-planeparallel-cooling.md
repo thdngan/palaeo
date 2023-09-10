@@ -1,5 +1,9 @@
 ---
 title: Radiative Cooling of Plane-parallel Colliding Flows under Gravitational Collapse
+tags:
+  - discussion
+  - astrophysics
+  - physics
 ---
 (writing)
 

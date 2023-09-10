@@ -2,7 +2,7 @@
 title: "[Case Study] Estimating Heat Transfer of a lake"
 date: 2022-11-02
 tags:
-- case study
+  - case-study
 ---
 
 Github link: https://github.com/thdngan/case-studies/tree/main/spline_heattransfer

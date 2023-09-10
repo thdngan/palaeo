@@ -2,8 +2,8 @@
 title: "[Case Study] Greenhouse gases and rainwater"
 date: 2022-09-27
 tags:
-- case study
-- climate
+  - climate
+  - case-study
 ---
 Github link: https://github.com/thdngan/case-studies
 
