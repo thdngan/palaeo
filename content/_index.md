@@ -28,7 +28,8 @@ You can easily navigate between notes by clicking on internal links within each 
 
 ## Why this place?
 
-I wrote blogs across a variety of platforms for a while, but I couldn't settle on one to use consistently. I once decided to write about a [[posts/neutrino communication|neutrino application]] and it soon hit me that it would be way more effective and intriguing to explain the intricate world of Particle Physics by bi-directional linking to all the other concepts it's tangled up with. So I thought, "Why not publish my [Obsidian](https://obsidian.md/) notes? It is literally *thee* perfect choice!". The thing is, I'm just a broke student :'> Monthly $20 for Obsidian Publish is a bit too much, but fortunately there's an amazing *free* alternative - [Quartz](https://quartz.jzhao.xyz/).
+I wrote blogs across a variety of platforms for a while, but I couldn't settle on one to use consistently. I once decided to write about a [[posts/neutrino communication|neutrino application]] and soon realized that it would be way more effective and intriguing to explain the intricate world of Particle Physics by linking bi-directionally to all the other concepts it's tangled up with. So I thought, "Why not publish my [Obsidian](https://obsidian.md/) notes? It's *the* perfect choice!". The thing is, monthly $20 for Obsidian Publish is a bit too much for a student like me :') Fortunately, there's an amazing *free* alternative - [Quartz](https://quartz.jzhao.xyz/).
+
 
 I've had so much fun setting up my own garden, *and \*coughs\* a little \*coughs\* headache because I was truly a noob at front-end stuff and I messed up* ***a lot***. The results are really worth it though, and I picked up a ton of knowledge along the way. Many thanks to [Jacky Zhao](https://github.com/jackyzha0) for creating this incredible tool!
 

@@ -4,16 +4,20 @@ title: Climate Modelling & Planetary Science
 
 
 
-1. [[case study - greenhouse gases and rainwater|(Case Study) Greenhouse gases and rainwater]]
-2. [[posts/predict weather ML|(PROJECT) Predict the weather using Machine Learning]]
-3. [[posts/naked planet climate model|Naked Planet Climate Model]]
-4. [[posts/greenhouse effect|Layer Model with Greenhouse Effect]]
+1. [[daisyworld|Daisy World]]
+2. [[sst|Sea Surface Temperature]]
+3. [[ebm1d|One-dimensional Energy Balance Model]]
+4. [[ebm0d|Zero-dimensional Energy Balance Model]]
+5. [[case study - greenhouse gases and rainwater|(Case Study) Greenhouse gases and rainwater]]
+6. [[posts/predict weather ML|(PROJECT) Predict the weather using Machine Learning]]
+7. [[posts/naked planet climate model|Naked Planet Climate Model]]
+8. [[posts/greenhouse effect|Layer Model with Greenhouse Effect]]
 
-5. [[posts/greenhouse gases|The physics of greenhouse gases]]
+9. [[posts/greenhouse gases|The physics of greenhouse gases]]
 
-6. [[notes/Legacy Mars GCM|Legacy Mars Global Climate Model]]
+10. [[notes/Legacy Mars GCM|Legacy Mars Global Climate Model]]
 
-7. [[posts/heat|What is heat and how can you warm up something in space]]
+11. [[posts/heat|What is heat and how can you warm up something in space]]
 
 
 <br>
