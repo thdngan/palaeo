@@ -17,7 +17,7 @@ date: 2023-09-05
 </i>
 </span>
 
-The gravitational collapse of a gas cloud has garnered significant theoretical attention, particularly concerning the phenomenon of star formation. Given that stars take shape within molecular clouds, many fundamental aspects of star formation likely stem from the physics governing the evolution of these molecular clouds. These clouds might consist of diffuse gas assembled together through dynamic forces like gravity or more broadly, compressive motions often referred to as colliding flows. Essentially, since molecular clouds have higher density compared to their surroundings, compression becomes inevitable. The true question then centers on the mechanism driving this compression.
+The gravitational collapse of a gas cloud has gained significant theoretical attention, particularly concerning the phenomenon of star formation. Given that stars take shape within molecular clouds, many fundamental aspects of star formation likely stem from the physics governing the evolution of these molecular clouds. These clouds might consist of diffuse gas assembled together through dynamic forces like gravity or more broadly, compressive motions often referred to as colliding flows. Essentially, since molecular clouds have higher density compared to their surroundings, compression becomes inevitable. The true question then centers on the mechanism driving this compression.
 
 
 ## Shock compression

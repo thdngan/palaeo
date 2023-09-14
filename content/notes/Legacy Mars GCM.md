@@ -6,6 +6,8 @@ tags:
 ---
 
 
+i don't even remember why i did this T^T
+
 ```bash
 % sudo apt install gfortran
 % git clone https://github.com/nasa/legacy-mars-global-climate-model.git

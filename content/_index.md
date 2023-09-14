@@ -22,14 +22,13 @@ Hello there, I'm Ngan (Ryan) - a student majoring in Space Science. Welcome to m
 You can easily navigate between notes by clicking on internal links within each page or by using the nodes on the interactive graph. If you're on a desktop, the graph is located on the right side of the page, and if you're using a mobile device, you can find it at the bottom of the page. You can also use the search tool 🔍 at the top (or **Ctrl + K**) to look for posts and keywords. Alternatively, you may look at a list of my [topics here](https://thdngan.github.io/quartz/subjects/ ):
 
 - Awesome [[climate n weather|Climate Modelling & Planetary Science]]           ﾟ+.ﾟ(\*´∀\`)bﾟ+.ﾟ
-- Some cool [[astrophysics|astrophysics]] stuff           ﾟ.+:｡∩(・ω・)∩ﾟ.+:｡
+- Some cool [[astrophysics|astrophysics & cosmology]] stuff           ﾟ.+:｡∩(・ω・)∩ﾟ.+:｡
 - [[image processing|Signal & Image Processing (just image for now lol)]]     (´ｰ｀).｡\*･ﾟﾟ
 - or me babbling about [[particle physics|particle physics]]     ～(´∀｀～)
 
 ## Why this place?
 
-I wrote blogs across a variety of platforms for a while, but I couldn't settle on one to use consistently. I once decided to write about a [[posts/neutrino communication|neutrino application]] and soon realized that it would be way more effective and intriguing to explain the intricate world of Particle Physics by linking bi-directionally to all the other concepts it's tangled up with. So I thought, "Why not publish my [Obsidian](https://obsidian.md/) notes? It's *the* perfect choice!". The thing is, monthly $20 for Obsidian Publish is a bit too much for a student like me :') Fortunately, there's an amazing *free* alternative - [Quartz](https://quartz.jzhao.xyz/).
-
+I wrote blogs across a variety of platforms for a while, but I couldn't settle on one to use consistently. I once decided to write about a [[posts/neutrino communication|neutrino application]] and soon realized that it would be way more effective and intriguing to explain the intricate world of Particle Physics by linking bi-directionally to all the other concepts it's tangled up with. This led me to the idea of publishing my notes using [Obsidian](https://obsidian.md/), and during my search, I discovered [Quartz](https://quartz.jzhao.xyz/).
 
 I've had so much fun setting up my own garden, *and \*coughs\* a little \*coughs\* headache because I was truly a noob at front-end stuff and I messed up* ***a lot***. The results are really worth it though, and I picked up a ton of knowledge along the way. Many thanks to [Jacky Zhao](https://github.com/jackyzha0) for creating this incredible tool!
 
