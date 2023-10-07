@@ -3,7 +3,6 @@ title: Radiative Cooling of Plane-parallel Colliding Flows under Gravitational C
 tags:
   - discussion
   - astrophysics
-  - physics
 date: 2023-09-05
 ---
 (writing in progress)
