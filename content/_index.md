@@ -10,7 +10,7 @@ date: 2021-11-01
 >&mdash; Lemony Snicket, The End
 
 
-Hello there, I'm Ngan (Ryan) - a student majoring in Space Science. Welcome to my [digital arboretum](https://nesslabs.com/digital-garden-set-up#:~:text=A%20digital%20garden%20is%20an,to%20be%20cultivated%20in%20public.)! This is where I keep track of all of my ideas, notes, discussions, personal projects, and pretty much everything else. These notes may not be polished or final; some are posted as incomplete thoughts that I may revisit later or link to other notes to develop and change over time.
+Hello there, I'm Ngan (Ryan). Welcome to my [digital arboretum](https://nesslabs.com/digital-garden-set-up#:~:text=A%20digital%20garden%20is%20an,to%20be%20cultivated%20in%20public.)! This is where I keep track of all of my ideas, notes, discussions, personal projects, and pretty much everything else. These notes may not be polished or final; some are posted as incomplete thoughts that I may revisit later or link to other notes to develop and change over time.
 
 *You might be wondering why there are penguins in an arboretum. Well, I don't know either xD This is just a weird combination of my favourite stuff lol*
 
@@ -21,10 +21,10 @@ Hello there, I'm Ngan (Ryan) - a student majoring in Space Science. Welcome to m
   
 You can easily navigate between notes by clicking on internal links within each page or by using the nodes on the interactive graph. If you're on a desktop, the graph is located on the right side of the page, and if you're using a mobile device, you can find it at the bottom of the page. You can also use the search tool 🔍 at the top (or **Ctrl + K**) to look for posts and keywords. Alternatively, you may look at a list of my [topics here](https://thdngan.github.io/quartz/subjects/ ):
 
-- Awesome [[climate n weather|Climate Modelling & Planetary Science]]           ﾟ+.ﾟ(\*´∀\`)bﾟ+.ﾟ
-- Some cool [[astrophysics|astrophysics & cosmology]] stuff           ﾟ.+:｡∩(・ω・)∩ﾟ.+:｡
-- [[image processing|Signal & Image Processing (just image for now lol)]]     (´ｰ｀).｡\*･ﾟﾟ
-- or me babbling about [[particle physics|particle physics]]     ～(´∀｀～)
+- [[climate n weather|Climate Modelling & Planetary Science]],
+- [[astrophysics|Astrophysics]], 
+- [[image processing|Signal & Image Processing (just image for now lol)]], 
+- [[particle physics|Particle Physics]].
 
 # Why this place?
 
