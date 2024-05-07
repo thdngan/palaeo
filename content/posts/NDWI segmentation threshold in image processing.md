@@ -1,8 +1,8 @@
 ---
-title: "NDWI Segmentation Threshold in Image Processing"
+title: NDWI Segmentation Threshold in Image Processing
 date: 2022-11-01
 tags:
-- image processing
+  - image-processing
 ---
 
 ## Background
