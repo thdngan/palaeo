@@ -20,7 +20,7 @@ Hello there, I'm Ngan (Ryan). Welcome to my [digital arboretum](https://nesslabs
 # How to navigate
 
   
-You can easily navigate between notes by clicking on internal links within each page or by using the nodes on the interactive graph. If you're on a desktop, the graph is located on the right side of the page, and if you're using a mobile device, you can find it at the bottom of the page. You can also use the search tool 🔍 at the top (or **Ctrl + K**) to look for posts and keywords. Alternatively, you may look at a list of my [topics here](https://thdngan.github.io/quartz/subjects/ ):
+You can easily navigate between notes by clicking on internal links within each page or by using the nodes on the interactive graph. If you're on a desktop, the graph is located on the right side of the page, and if you're using a mobile device, you can find it at the bottom of the page. You can also use the search tool 🔍 at the top (or **Ctrl + K**) to look for posts and keywords. Alternatively, you may look at a list of my [topics here](https://thdngan.github.io/quartz/subjects/):
 
 - [[climate n weather|Climate Modelling & Planetary Science]],
 - [[astrophysics|Astrophysics]], 
