@@ -3,6 +3,7 @@ title: One-dimensional Energy Balance Model
 date: 2023-03-11
 tags:
   - climate
+  - notebooks
 ---
 # Background
 

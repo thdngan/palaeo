@@ -3,6 +3,8 @@ title: Cosmological Lithium Problem
 date: 1023-09-13
 tags:
   - cosmology
+  - notebooks
+  - incomplete
 draft: true
 ---
 (writing in progress)

@@ -1,9 +1,10 @@
 ---
-title: "subatomic particles"
+title: subatomic particles
 date: 2022-08-01
 tags:
-- note
-- particle physics
+  - particle
+  - physics
+  - notes
 ---
 Particles that compose an atom.
 

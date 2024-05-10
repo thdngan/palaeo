@@ -3,6 +3,7 @@ title: Zero-dimensional Energy Balance Model
 date: 2023-02-12
 tags:
   - climate
+  - notebooks
 ---
 The zero-dimensional energy balance model is a simplified mathematical representation of the Earth's energy balance. It is called "zero-dimensional" because it assumes a well-mixed atmosphere and does not consider spatial variations in temperature or other variables.
 

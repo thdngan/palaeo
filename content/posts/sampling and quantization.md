@@ -2,8 +2,8 @@
 title: Sampling and Quantization in Image Processing
 date: 2022-04-15
 tags:
-  - notebook
   - image-processing
+  - notebooks
 ---
 *Images mentioned in this post are from Digital Image Processing (3rd edition), by Rafael C. Gonzalez, Richard E. Woods. I don't have the permission to use them here.*
 

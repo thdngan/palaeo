@@ -1,9 +1,10 @@
 ---
-title: "composite particles"
+title: composite particles
 date: 2022-08-01
 tags:
-- note
-- particle physics
+  - particle
+  - physics
+  - notes
 ---
 Include:
 - [[notes/hadrons|hadrons]]

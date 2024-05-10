@@ -1,9 +1,9 @@
 ---
-title: "Naked Planet Climate Model"
+title: Naked Planet Climate Model
 date: 2022-08-30
 tags:
-- notebook
-- climate
+  - climate
+  - notebooks
 ---
 
 

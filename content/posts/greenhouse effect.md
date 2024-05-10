@@ -1,9 +1,9 @@
 ---
-title: "Layer Model with Greenhouse Effect"
+title: Layer Model with Greenhouse Effect
 date: 2022-09-10
 tags:
-- notebook
-- climate
+  - climate
+  - notebooks
 ---
 
 

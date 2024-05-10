@@ -1,9 +1,10 @@
 ---
-title: "What is heat and how can you warm up something in space"
+title: What is heat and how can you warm up something in space
 date: 2022-06-25
 tags:
-- notebook
-- climate
+  - notebooks
+  - physics
+  - astrophysics
 ---
 
 

@@ -1,9 +1,10 @@
 ---
-title: "elementary particles"
+title: elementary particles
 date: 2022-08-01
 tags:
-- note
-- particle physics
+  - particle
+  - physics
+  - notes
 ---
 They are [[notes/subatomic particles|subatomic particles]] that are not composed of other particles.
 

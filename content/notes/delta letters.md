@@ -1,8 +1,9 @@
 ---
-title: "Difference between ∂, δ, d and Δ"
+title: Difference between ∂, δ, d and Δ
 date: 2022-09-11
 tags:
-- note
+  - notes
+draft: true
 ---
 
 '_Δ_' -- means a change in some variable. This makes it a difference operation: _Δt = t2 - t1_.

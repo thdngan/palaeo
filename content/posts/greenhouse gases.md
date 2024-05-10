@@ -1,9 +1,9 @@
 ---
-title: "The physics of greenhouse gases"
+title: The physics of greenhouse gases
 date: 2022-09-10
 tags:
-- notebook
-- climate
+  - climate
+  - notebooks
 ---
 
 The Earth's climate is a complex system influenced by various factors, and one of the most critical aspects of climate science is the role of greenhouse gases. These gases, which include carbon dioxide ($CO_2$), water vapor ($H_2O$), methane ($CH_4$), and others, play a pivotal role in regulating the Earth's temperature by trapping heat from the sun. To understand why some gases act as greenhouse gases while others do not, we must delve into the physics of these gases.
