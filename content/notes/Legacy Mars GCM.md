@@ -1,8 +1,9 @@
 ---
-title: "Legacy Mars Global Climate Model"
+title: Legacy Mars Global Climate Model
 date: 2022-08-30
 tags:
-- climate
+  - climate
+draft: true
 ---
 
 

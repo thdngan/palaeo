@@ -13,13 +13,17 @@ date: 2023-09-05
 # Background
 ## Colliding Flows
 
-![[starformation.jpg]]
- <span class = "caption">  
-<i>Star-forming region S106 (captured by the Hubble Space Telescope)
-</i>
-</span>
+
+
+>[!caption_right]
+>![[starformation.jpg]]
+>Star-forming region S106 (captured by the Hubble Space Telescope)
+
+
+
 
 The gravitational collapse of a gas cloud has gained significant theoretical attention, particularly concerning the phenomenon of star formation. Given that stars take shape within molecular clouds, many fundamental aspects of star formation likely stem from the physics governing the evolution of these molecular clouds. These clouds might consist of diffuse gas assembled together through dynamic forces like gravity or more broadly, compressive motions often referred to as colliding flows. Essentially, since molecular clouds have higher density compared to their surroundings, compression becomes inevitable. The true question then centers on the mechanism driving this compression.
+
 
 
 ## Shock compression
@@ -28,22 +32,25 @@ Within molecular clouds, which are cold and compact parts of interstellar space,
 
 ## Self-similarity
 
+>[!caption_left]
+>![[self-simi-murakami.png]]
+>Murakami et al. (2004)
 
 Self-similar solutions play a crucial role in many branches of physics, in particular, for such fields as hydrodynamic phenomena in astrophysics. For example, you would probably be familiar with the Larson-Penston (LP) solution (Larson 1969; Penston 1969) which utilizes the continuity and momentum conservation equation to give a self-similar solution for the gravitational collapse of an isothermal gaseous sphere.
 
 The behavior of x (distance or radius) and t (time) in these self-similar solutions could be such that the radius and density are related by a power-law expression that remains constant as the collapse progresses. This means that if you were to plot the density profile of the cloud at different times, the shape of the profile would remain the same, but the scale would change according to a power-law relationship with time.
 
-![[self-simi-murakami.png]]
- <span class = "caption">  
-<i>Murakami et al. (2004)
-</i>
-</span>
+
+
+
 
 ## Planar Geometry
 
-In this project, the approach is to utilize a plane-parallel geometry, where variations in physical properties solely arise along the x-axis and are assumed uniform along the y and z axes. Thus, in a system or flow displaying self-similar traits in this plane-parallel geometry, fluid properties such as velocity, temperature, and density follow a consistent pattern of change regardless of the scale of observation.
+>[!caption_right]
+>![[planepara.png]]
+>Plane-parallel geometry
 
-![[planepara.png]]
+In this project, the approach is to utilize a plane-parallel geometry, where variations in physical properties solely arise along the x-axis and are assumed uniform along the y and z axes. Thus, in a system or flow displaying self-similar traits in this plane-parallel geometry, fluid properties such as velocity, temperature, and density follow a consistent pattern of change regardless of the scale of observation.
 
 So we will have:
 - $v = v_x, \rho = \rho_x$
@@ -364,6 +371,7 @@ $$
 This solution characterizes the homologous collapse of a flat structure that stretches infinitely and is applicable solely for t < 0.
 
 ## Physical solution
+
 We employ numerical methods to solve the system, initializing integration at ξ values considerably small and at times t < 0. By utilizing the shooting method, we determine the appropriate value of K1 that permits the existence of a continuous solution. Subsequently, the negative solution is extrapolated to very large ξ values. In the below figure, we present illustrative profiles for two chosen pairs of m and n.
 
 ![[profile-m1-5-n3.png]]
