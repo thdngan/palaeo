@@ -3,6 +3,7 @@ title: bottom-simulating reflectors
 tags:
   - notes
 date: 2024-05-14
+draft: true
 ---
 A bottom-simulating reflector (BSR) is a seismic reflection feature observed in marine seismic surveys, often associated with the presence of gas hydrates and underlying free gas in marine sediments. It is called "bottom-simulating" because its appearance mimics the seafloor but at a different depth.
 

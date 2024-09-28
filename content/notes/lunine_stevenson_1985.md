@@ -51,8 +51,8 @@ $\rightarrow$ Predict:
 ### Clathrate hydrate structure
 - Open, cage-like voids, each formed by **20-28 hydrogen-bonded** water molecules.
 - **==Two structural types==**: I and II. The ==size of the included guest molecule== determines which is formed.
-	- **Structure I clathrate:** 2 small cages + 6 large cages.
-	- **Structure II clathrate:** 16 small + 8 large (10% bigger radius than structure I large cages)
+	- **Structure I clathrate:** 2 small cages + 6 large cages (CO2, CH4)
+	- **Structure II clathrate:** 16 small + 8 large (10% bigger radius than structure I large cages) ==(O2, CH4, Kr, Ar)==
 - Previously **assumed** that all molecules **smaller than 5.8 $\text{\r{A}}$** form structure I clathrate. **BUT** Davidson et al. (1984) demonstrate that **argon & krypton** preferentially form structure II clathrate, while somewhat larger molecules such as **CH4** form structure I.
 - **==Pure==** clathrate:
 	- Only 1 kind of guest molecule.
@@ -435,8 +435,91 @@ Calculate phase diagram of clathrate hydrate in the presence of ammonia at moder
 
 \[...\]
 
+At **low temperatures and pressures** in the presence of ammonia, a "competition" would be expected to ensue between **methane**, which seeks water ice so as to form clathrate, and **ammonia**, which would like to form a stoichiometric hydrate.
 
+At **higher temperatures & pressures**, the liquid ammonia-water field would also be expected to affect the stability of the coexisting clathrate, since the energy cost in converting liquid water to clathrate hydrate structure differs from that of water ice and results in a different slope to the dissociation pressure-temperature curve.
 
+==Assumptions:==
+1. NH$_3$ does not incorporate as a guest molecule in clathrate
+2. NH$_3$ does not incorporate in the cage-forming ice clathrate lattice, nor does it form a clathrate lattice structure of its own.
+=> equate chemical potentials for the ammonia hydrates and clathrate + evaluate them using properties known from laboratory data or calculated from [[lunine_stevenson_1985#Statistical mechanical model to predict clathrate formation|§5]].
+
+Since complete clathrate and hydrate formation would exhaust the available water ice in a solar composition nebula, we examine ==phase equilibria== between the following assemblages (??):
+
+*(a)* NH$_3$ $-$ H$_2$O$_{(L)}$ $+$ CH$_{4(FL)}$,
+*(b)* NH$_3$ $-$ H$_2$O$_{(L)}$ $+$ CH$_{4}$ $\cdot$ 6H$_2$O + CH$_{4(FL)}$,
+*(c)* NH$_3$ $-$ H$_2$O$_{(L)}$ $+$ ice I $+$ CH$_{4(FL)}$,
+*(d)* NH$_3$ $\cdot$ H$_2$O$_{(s)}$ $+$ ice I $+$ CH$_{4(FL)}$,
+*(e)* NH$_3$ $\cdot$ H$_2$O$_{(s)}$ $+$ CH$_4$ $\cdot$ 6H$_2$O $+$ CH$_{4(FL)}$,
+*(f)* 2NH$_3$ $\cdot$ H$_2$O$_{(s)}$ $+$ CH$_4$ $\cdot$ 6H$_2$O $+$ CH$_{4(FL)}$.
+
+Here:
+- (s) = solid,
+- (L) = liquid, 
+- (FL) refers to vapor, liquid, or supercritical phase as appropriate, 
+- CH$_4$ $\cdot$ 6H$_2$O indicates structure I methane clathrate,
+- ice I is pure hexagonal water ice I.
+
+\[...\]
+
+Since the ammonia-water solution is in coexistence with pure water ice, the additional **==condition==**
+
+$$
+\mu^L_{H_2O}=\mu^I_{H_2O}
+\tag{15}
+$$
+^eq15
+
+holds, where:
+- $\mu^L_{H_2O}$ is the chemical potential of water in the ammonia-water solution, and
+- $\mu^I_{H_2O}$ that in ice I.
+
+Using thermodynamics to predict the formation of clathrate from the ammonia hydrate (i.e., assemblages \[*e*\] and \[*f*\], no free water ice present); the equilibrium is:
+
+$$
+\begin{aligned}
+\text{CH}_4&\text{(FL)} + 12(\text{NH}_3\cdot\text{H}_2\text{O})(\text{s})\\
+&\Leftrightarrow \text{CH}_4\cdot6\text{H}_2\text{O}+6(2\text{NH}_3\cdot\text{H}_2\text{O})(\text{s})+\text{CH}_4\text{(FL)}.
+\end{aligned}
+\tag{16}
+$$
+^eq16
+
+In terms of **==chemical potentials==**,
+
+$$
+\mu_{2\text{NH}_3-\text{H}_2\text{O}}+\mu^{\text{cl}}_{\text{H}_2\text{O}}=2\mu_{\text{NH}_3-\text{H}_2\text{O}}.
+\tag{17}
+$$
+^eq17
+
+Now,
+
+$$
+\begin{aligned}
+\mu_{\text{NH}_3-\text{H}_2\text{O}}&=\mu^{\text{v}}_{\text{NH}_3}+\mu^{\text{v}}_{\text{H}_2\text{O}}\\
+&=kT\left(\ln\frac{P^{\text{NH}_3-\text{H}_2\text{O}}_{\text{NH}_3}}{P^R_{\text{NH}_3}}+\ln\frac{P^{\text{NH}_3-\text{H}_2\text{O}}_{\text{H}_2\text{O}}}{P^R_{\text{H}_2\text{O}}}\right)
+\end{aligned}
+\tag{18}
+$$
+^eq18
+
+and
+
+$$
+\mu_{2\text{NH}_3-\text{H}_2\text{O}}=kt\left(2\ln\frac{P^{2\text{NH}_3-\text{H}_2\text{O}}_{\text{NH}_3}}{P^R_{\text{NH}_3}}+\ln\frac{P^{2\text{NH}_3-\text{H}_2\text{O}}_{\text{H}_2\text{O}}}{P^R_{\text{H}_2\text{O}}} \right),
+\tag{19}
+$$
+^eq19
+
+where:
+- $\mu^\text{v}_x=$ chemical potential in the vapor phase of constituent *x*,
+- $P^\text{y}_x=$ vapor pressure of constituent *x* over solid compound *y*,
+- $P^R_x=$ reference pressure for the pure component *x* at the system temperature *T*.
+
+\[...\]
+
+\[equations (20) - (25)\]
 
 ## High-pressure equilibria
 
@@ -452,6 +535,22 @@ Apply the results of previous sections to calculate the abundance of volatiles i
 
  
 ## Summary & Conclusions
+
+
+## Side notes
+
+Which structure is dominant? -> more ==energetically favorable==??
+
+1. **Guest molecule size & type:**
+- sI is typically formed with small molecules like methane and carbon dioxide.
+- sII can form with larger molecules like propane and ethane.
+
+2. **pressure and temperature conditions:** Each structure has a distinct stability region in the pressure-temperature phase diagram.
+3. **Concentration of guest molecules:** partial pressure or concentration of different guest molecules in the system influences which clathrate structure forms.
+4. **thermodynamic stability:** Gibbs free energy. structure with the ==lowest Gibbs free energy== is the most stable -> more likely to be dominant.
+
+
+
 
 
 
