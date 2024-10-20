@@ -1,5 +1,5 @@
 ---
-title: Lunine & Stevenson 1985
+title: Thermodynamics of Clathrate Hydrate
 date: 2024-05-15
 tags:
   - chemistry
@@ -7,18 +7,20 @@ tags:
   - planetary-science
   - paper-notes
   - thermodynamics
-draft: true
+draft: false
 ---
+(Reference: Lunine & Stevenson 1985)
+
 ## Definition
 
-Clathrate hydrates are a fascinating class of chemical compounds. They are **crystalline structures** in which **gas molecules** are *trapped* within **cages** formed by water molecules. The most common type of clathrate hydrates involves water ice cages with gas molecules, typically methane, encased within them. However, other gases like carbon dioxide, hydrogen sulfide, and various hydrocarbons can also form clathrate hydrates under specific conditions.
+Clathrate hydrates are **crystalline structures** in which **gas molecules** are *trapped* within **cages** formed by water molecules.%%  The most common type of clathrate hydrates involves water ice cages with gas molecules, typically methane, encased within them. However, other gases like carbon dioxide, hydrogen sulfide, and various hydrocarbons can also form clathrate hydrates under specific conditions. %%
 
-In this paper:
+%% In this paper:
 
 - Deal almost exclusively with clathrate compounds for which water ice forms the lattice structure (i.e., the "**host**" molecule) -> the term ***clathrate*** is here understood to mean clathrate hydrate.
 - The gas molecule occupying a cage site is the "**guest**" molecule. The term ***methane clathrate*** is used to denote a clathrate hydrate in which methane is the primary *guest* molecule.
 - Occasional discussion of clathrates in which a substance other than water ice is the host, for example, quinol, will emply the term ***quinol clathrale***.
-- A stoichiometric compound of water ice, in which molecules bond chemically with the water molecule and do not form a clathrate, will be denoted as a ***hydrate***, e.g., ammonia hydrate.
+- A stoichiometric compound of water ice, in which molecules bond chemically with the water molecule and do not form a clathrate, will be denoted as a ***hydrate***, e.g., ammonia hydrate. %%
 
 
 
@@ -36,14 +38,14 @@ In this paper:
 
 
 
-Goal:
+%% Goal:
 - Treat all of these cases with a **single, physically reasonable model** of clathrate formation which is **tied** as much as possible directly **to laboratory data** on the **stability** of the various clathrate compounds or the **thermodynamic properties** of the pure components themselves.
 $\rightarrow$ Predict:
 	- Conditions of formation of clathrate hydrate of CO, an important molecule cosmochemically and one for which no laboratory data on the clathrate yet exist.
 	- Substantial double occupancy of clathrate cages by CH4 and H2, the latter by itself a poor clathrate hydrate former $\rightarrow$ implications for satellite outgassing processes.
 
 - Deal with ***stability of clathrates at high pressure*** (>5 kilobars) and the ***formation of clathrates*** in the presence of an ***ammonia-water solution*** (a probable primordial environment in large icy satellites). (few or no data exist, dealt with for the first time)
-- Analyze ***clathrate formation kinetics*** in a gaseous environment $\rightarrow$ find that disequilibrium is likely in many circumstances, including the formation conditions of comets, but that approach to full equilibrium may occur if ice particles or planetesimals undergo extensive collisional gardening. Approach to equilibrium is more probable in the higher-density, higher-temperature nebulae around proto-giant planets than in the primordial solar nebula.
+- Analyze ***clathrate formation kinetics*** in a gaseous environment $\rightarrow$ find that disequilibrium is likely in many circumstances, including the formation conditions of comets, but that approach to full equilibrium may occur if ice particles or planetesimals undergo extensive collisional gardening. Approach to equilibrium is more probable in the higher-density, higher-temperature nebulae around proto-giant planets than in the primordial solar nebula. %%
 
 
 ## Literature review on clathrate properties & occurrence & previous applications to solar system problems
@@ -68,25 +70,25 @@ $\rightarrow$ Predict:
 	- **structure II** clathrate: $(\underset{i}{\pi} X_{i(y_i)}) \times 5\frac{2}{3} H_2 O$
 - Not all cages need to be filled. One of the guest species can be thought of as a *hole*, which enters the partition functions (?) appropriately but otherwise does not contribute to the energy.
 ### Past studies
-- Studies that are important in determining the **degree of rotational inhibition** of the encaged guest molecule, the **magnitude of electric fields** within the cage, and **degree of interaction** between guest molecules in adjacent cages:
+%% - Studies that are important in determining the **degree of rotational inhibition** of the encaged guest molecule, the **magnitude of electric fields** within the cage, and **degree of interaction** between guest molecules in adjacent cages:
 	- In understanding explicitly the interaction between guest molecule and the surrounding host cage, thoeretically by Davidson (1971) and experimentally, using infrared spectroscopy and dielectric measurements, by Bertie and Jacobs (1982, 1978, 1977) and Davidson and Wilson (1963).
 	- Computer simulation of guest and cage molecule motions by Tester, Bivins, and Herrick (1972), Plummer and Chen (1983), and Tse, Klein, and McDonald (1983).
 - Much less attention has been given to the **==kinetics of clathrate formation==**, most likely because of the long duration of experiments required to measure diffusion of gas molecules within grains and along grain boundaries in water ice.
 	- Barrer and Edge (1967), Barrer and Ruzicka (1962) achieved nearly complete clathration in a system of water ice and noble gas by **agitating** the system, apparently exposing fresh ice to the gas.
-	- In the absence of shaking, an initially rapid uptake of gas by the ice to form clathrate was followed by a very slow uptake, suggesting a [[diffusion|diffusional process]].
+	- In the absence of shaking, an initially rapid uptake of gas by the ice to form clathrate was followed by a very slow uptake, suggesting a [[diffusion|diffusional process]]. %%
 - Studies on ==physical properties== of clathrate which are relevant to identifying clathrate in terrestrial ocean sediments as well as processes in solar system bodies:
 	- Cook and Leaist (1983), Stoll and Bryan (1979): **thermal conductivity** at low-to-moderate pressures, the latter also measured **acoustic wave velocity**.
 	- Dharma-Wardana (1983): attempted to explain the **low thermal conductivity** of clathrate (one-fifth that of ice $I_H$) in terms of the large number of molecules per unit clathrate cell.
 	- Ross and Andersson (1982): **thermal conductivity** and **heat capacity** studies to explore high-pressure solid compounds of water and tetrahydrofuran (THF), including THF clathrate. Results suggest the possibility of a high-density clathrate hydrate phase existing above 11 kilobars.
 	- Pinder (1964): **time-dependent** [[rheology]] of a clathrate hydrate [[slurry]], with THF and hydrogen sulfide as guest molecules.
 	- Byk and Fomina (1968), Kvenvolden and McDonald (1982): **data** on the **density of clathrate compounds**.
-- Literature describing the ==predicted or observed occurrence of clathrates== in natural environments:
+%% - Literature describing the ==predicted or observed occurrence of clathrates== in natural environments:
 	- Claypool and Kvenvolden (1983), Kvenvolden and McMenamin (1980): reviews of the t**errestrial occurence** of clathrate.
 	- Pearson et al. (1983): review of **properties of natural clathrate deposits**.
 	- Evidence for clathrate in permafrost in western Siberia, Canada, and Alaska. Existence of an **$\bm{N_2-O_2}$ clathrate** in Antarctic ice proposed (Miller 1969) and tentatively detected (Shoji and Langway 1982).
 	- **Best evidence for the existence of naturally formed clathrate** comes from [[bottom-simulating reflectors]] in a number of ocean sediment areas around the world. The reflectors are apparently due to an **abrupt decrease in sound velocity** caused by **trapped methane gas**. The association of the gas with methane clathrate is supported by:
 		- calculations showing that the reflectors are in a temperature-pressure regime stable for methane clathrate (Shipley et al. 1979)
-		- the retrieval in drill cores of frozen sediments and water ice evolving primarily methane gas (Shipley and Didyk 1982; Kvenvolden and McDonald 1982). The methane is likely of biogenic origin; the existence of the clathrate demonstrates that, in the presence of liquid water at least, clathrate compounds form spontaneously under the appropriate gas pressure and temperature conditions.
+		- the retrieval in drill cores of frozen sediments and water ice evolving primarily methane gas (Shipley and Didyk 1982; Kvenvolden and McDonald 1982). The methane is likely of biogenic origin; the existence of the clathrate demonstrates that, in the presence of liquid water at least, clathrate compounds form spontaneously under the appropriate gas pressure and temperature conditions. %%
 - **==Application of clathrate hydrate properties to solar system objects==**:
 	- Delsemme and Swings (1952): proposed the existence of clathrate hydrate in cometary nuclei.
 	- Delsemme and Wenger (1970): **produced methane clathrate** at temperatures as low as 82 K by condensing water vapor onto a cold plate in the presence of methane gas. The stripping of ice grains during [[dissociation]] was suggested as a mechanism for cometary halo production.
@@ -103,7 +105,7 @@ $\rightarrow$ Predict:
 	- Stevenson (1982*a*) proposed clathrate hydrate **dissociation** as a **driver** for **explosive ammonia-water volcanism** on **Rhea-sized satellites** in the Saturn system.
 	- Owen (1982): renewed suggestion that **Titan's atmosphere** is derived from clathrate and suggested that the $\bm{N_2}$ making most of the present atmosphere was accreted in clathrate.
 	- Lunine and Stevenson (1982*a*) calculated **gas composition in clathrate** derived from a **circum-Saturnian nebula** and concluded that ==although CH4 in Titan is likely derived from primordial clathrate, N2 would not be substantially incorporated and may have been photochemically produced from NH3 later== (Atreya, Donahue, and Kuhn 1978).
-- **==No direct evidence exists for clathrate anywhere aside from Earth==**. In part this may be because clathrate "hides" itself very well as ordinary water ice I in reflection spectra (Smythe 1975). The utility of studying clathrate thermodynamics rests more on indirect evidence that clathrates play a role in determining the composition and evolution of surfaces and atmospheres of satellites (and perhaps giant-planet envelopes) in the outer solar system. Striking improvements in spectral resolution in ground-based reflection spectroscopy now raise the possibility of distinguishing between water ice I (and its high-pressure polymorphs - Gaffney and Matson 1980) and clathrate hydrate on surfaces in the outer solar system in the near future.
+- **==No direct evidence exists for clathrate anywhere aside from Earth==**.%%  In part this may be because clathrate "hides" itself very well as ordinary water ice I in reflection spectra (Smythe 1975). The utility of studying clathrate thermodynamics rests more on indirect evidence that clathrates play a role in determining the composition and evolution of surfaces and atmospheres of satellites (and perhaps giant-planet envelopes) in the outer solar system. Striking improvements in spectral resolution in ground-based reflection spectroscopy now raise the possibility of distinguishing between water ice I (and its high-pressure polymorphs - Gaffney and Matson 1980) and clathrate hydrate on surfaces in the outer solar system in the near future. %%
 
 ## Statistical mechanical model to predict clathrate formation
 or more specifically, to **==predict the stability regimes of clathrate hydrate==** and the **==composition of the guest molecule component==**.
@@ -144,13 +146,13 @@ Figure on the left plots qualitatively the phase boundary as a function of $P$ a
 - The precise sign and value of $dT/dP$ at the high-pressure end of the clathrate stability field are sensitive functions of the compressibility of the clathrate, water, and guest molecule components, and are calculated for $CH_4$ and $N_2$ in [[lunine_stevenson_1985#High-pressure equilibria|§7]]. 
 - $P-T$ data in the literature are restricted to the low-pressure end in the figure ($\lesssim 4$ kilobars); studies by Tammann and Krige (1925) and van Berkum and Diepen (1979) appear to have located the critical point for $SO_2$ clathrate.
 
-Considering in more detail the nature of the guest-host interaction, it is inaccurate to think of the guest molecules as impurities occupying imperfections or substituting for  water molecules in the lattice structure.
+%% Considering in more detail the nature of the guest-host interaction, it is inaccurate to think of the guest molecules as impurities occupying imperfections or substituting for  water molecules in the lattice structure.
 - X-ray diffraction studies of clathrates (Jeffrey and McMullan 1967) demonstrate a well-defined structure in which cages of diameter $\sim 10$ $\text{\r{A}}$ are present.
 - Calculations by Davidson (1971) indicate stubstantial cancellation of lattice water molecule dipolar fields within the cage volume.
 - Theoretical and experimental studies of infrared spectra (e.g., Davidson 1971; Bertie and Jacobs 1978) and **physical properties** of clathrate such as sound velocity (Pearson et al. 1983) suggest that these properties are to first order **determined by** the **water molecules and their lattice structure**, crudely **independent of particular guest species**, and the **interaction between the guest molecule and host lattice is extremely weak**. Even the very low thermal conductivity of the clathrate relative to water ice may be a result of the form of the lattice structure and not due to coupling to the guest molecule (Dharma-Wardana 1983), although this is controversial.
 - The weak interaction is consistent with London dispersion forces (Fowler and Guggenheim 1960, p.278) being responsible for the attractive part of the guest-host interaction, with lesser contribution from dipole-induce-dipole and dipole-dipole interactions with residual fields in the cage.
 - This has long been recognized (van der Waals and Platteeuw 1959), since the noble gases are observed as encaged guest molecules; we wish to emphasize the point here since the ***predominantly icelike properties are potentially important for evolution models of icy satellites***.
-- Strongly dipolar molecules apparently can occupy cage sites (Jeffrey and McMullan 1967); the possible incorporation of ammonia in clathrate cages is deferred to a later section.
+- Strongly dipolar molecules apparently can occupy cage sites (Jeffrey and McMullan 1967); the possible incorporation of ammonia in clathrate cages is deferred to a later section. %%
 
 
 
@@ -297,7 +299,7 @@ For a given choice of parameters $\epsilon$, $\rho_m$, $c$, and temperature $T$ 
 
 ### Choice of Molecular Parameters
 
-We now fit the above equations to existing laboratory data on clathrate to derive values for $\epsilon$, $\rho$, and, where necessary, $c$. We will then use these parameters to predict the dissociation of clathrate at temperatures below that available in the data, or the dissociation pressure for guest molecules simiar to others but for which laboratory data are scant or nonexistent. We use our results in [[lunine_stevenson_1985#Applications|§9]] to predict the composition of the clathrate in plausible nebular models. Our derived parameters also will be used to predict the stability of clathrate under high pressure and in coexistence with an ammonia-water solution.
+%% We now fit the above equations to existing laboratory data on clathrate to derive values for $\epsilon$, $\rho$, and, where necessary, $c$. We will then use these parameters to predict the dissociation of clathrate at temperatures below that available in the data, or the dissociation pressure for guest molecules simiar to others but for which laboratory data are scant or nonexistent. We use our results in [[lunine_stevenson_1985#Applications|§9]] to predict the composition of the clathrate in plausible nebular models. Our derived parameters also will be used to predict the stability of clathrate under high pressure and in coexistence with an ammonia-water solution.
 
 In evaluating equation [[lunine_stevenson_1985#^eq1|(1)]] a choice of $\Delta\mu^\beta$, the difference in chemical potential between the empty clathrate lattice and coexisting liquid water or ice phase, must be made. To date no attempt has been made to calculate this from first principles; instead it has been derived by laboratory studies. For structure I van der Waals and Plateeuw (1959) suggest 167 cal mole$^{-1}$ at 273 K, based on the bromine clathrate. Parrish and Prausnitz (1972) and Holder, Corbin, and Papadopoulos (1980) derive $\Delta\mu^\beta \sim 310 \text{ cal mole}^{-1}$ based on cyclopropane and methane clathrate. Since the existence of a structure I bromine clathrate has been called into question (Parrish and Prausnitz 1972), we use the latter value. For structure II, Sortland and Robinson (1964) derive 211 cal mole$^{-1}$.
 
@@ -322,7 +324,7 @@ Data on Ar, Kr, Xe and $\text{CH}_4$ clathrate extend to low temperatures, as lo
 
 We now use our fitted parameters to **derive dissociation pressures** of clathrate containing guest molecules for which few or no laboratory data are available. We reason in the following manner:
 - The **mixed force parameters** $c_m$, $\epsilon_m$, $\rho_m$, fitted to laboratory data, **characterize** the **averaged intermolecular potential interaction** between guest molecule and the cage comprised of water molecules.
-- **Similarly shaped guest molecules** will likely experience **similar types of interactions** with the cage; hence, using mixing rules we can **derive Kihara parameters** **for** the **unknown** molecule **from** those of a **similar type** of molecule for which **dissociation pressure data exist**.
+- **Similarly shaped guest molecules** will likely experience **similar types of interactions** with the cage; hence, using mixing rules we can **derive Kihara parameters** **for** the **unknown** molecule **from** those of a **similar type** of molecule for which **dissociation pressure data exist**. %%
 
 The **==geometric mean and hard-sphere mixing rules==** (Prausnitz 1969, pp. 63, 104):
 
@@ -431,7 +433,7 @@ $$
 
 ## Clathrate equilibria at moderate pressures in the presence of ammonia
 
-Calculate phase diagram of clathrate hydrate in the presence of ammonia at moderate pressures.
+%% Calculate phase diagram of clathrate hydrate in the presence of ammonia at moderate pressures. %%
 
 \[...\]
 
@@ -531,7 +533,7 @@ Use results from statistical model to calculate complete stability fields of bot
 
 
 ## Applications
-Apply the results of previous sections to calculate the abundance of volatiles incorporated in clathrate formed from a solar composition gas and explores implications for the current composition and evolution of satellites and giant-planet atmospheres.
+%% Apply the results of previous sections to calculate the abundance of volatiles incorporated in clathrate formed from a solar composition gas and explores implications for the current composition and evolution of satellites and giant-planet atmospheres. %%
 
  
 ## Summary & Conclusions

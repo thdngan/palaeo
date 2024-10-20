@@ -4,6 +4,7 @@ tags:
   - notes
   - chemistry
 date: 2024-05-14
+draft: true
 ---
 Dissociation refers to a process in which a compound or molecule breaks down into smaller components, such as ions, atoms, or simpler molecules. This can occur in various contexts, including chemistry, physics, and psychology. Here, we will focus on dissociation in a chemical context.
 

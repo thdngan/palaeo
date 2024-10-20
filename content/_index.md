@@ -12,7 +12,7 @@ enableToc: false
 
 Welcome to my [digital arboretum](https://nesslabs.com/digital-garden-set-up#:~:text=A%20digital%20garden%20is%20an,to%20be%20cultivated%20in%20public.)!
 
-I'm Ngan (Ryan), a student majoring in Space Science.  This is where I keep track of all of my ideas, #notes, #notebooks , #discussions, personal #projects, and pretty much everything else. These notes may not be polished or final; some are posted as #incomplete thoughts (or even #blank ) that I may revisit later or link to other notes to develop and change over time.
+I'm Ngân (Ryan), a student majoring in Space Science.  This is where I keep track of all of my ideas, #notes, #notebooks , #discussions, personal #projects, and pretty much everything else. These notes may not be polished or final; some are posted as #incomplete thoughts (or even #blank ) that I may revisit later or link to other notes to develop and change over time.
 
 *You might be wondering why there are penguins in an arboretum. Well, I don't know either xD*
 
@@ -25,7 +25,7 @@ You can easily navigate between notes by clicking on internal links within each 
 
 - #planetary-science, #climate (mostly modeling),
 - #astrophysics ,
-- #image-processing ,
+- #image-processing , 
 - #particle physics,
 - #chemistry (more like physical chemistry actually),
 - or just #physics in general,

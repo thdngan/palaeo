@@ -50,10 +50,10 @@ Adsorption isotherms describe the relationship between the amount of gas adsorbe
      - $ P_0 $: Saturation pressure of the gas.
      - $ C $: BET constant related to the energy of adsorption.
 
-### Applications of Gas Adsorption
+%% ### Applications of Gas Adsorption
 
 1. **Catalysis**: Adsorption of reactant gases on catalyst surfaces is a key step in heterogeneous catalysis.
 2. **Gas Storage**: Adsorbents like activated carbon and metal-organic frameworks (MOFs) are used to store gases such as hydrogen and methane.
 3. **Gas Separation**: Adsorption techniques are used to separate gases in processes like pressure swing adsorption (PSA) and temperature swing adsorption (TSA).
 4. **Environmental Technology**: Adsorbents are used to capture pollutants and contaminants from air and water, such as in activated carbon filters.
-5. **Surface Characterization**: Techniques like BET analysis provide information about the surface area and porosity of materials.
+5. **Surface Characterization**: Techniques like BET analysis provide information about the surface area and porosity of materials. %%

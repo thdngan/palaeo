@@ -1,5 +1,5 @@
 ---
-title: Radiative Cooling of Plane-parallel Colliding Flows under Gravitational Collapse
+title: Radiative Cooling of Molecular Cloud under Gravitational Collapse
 tags:
   - astrophysics
   - discussions
@@ -28,7 +28,7 @@ The gravitational collapse of a gas cloud has gained significant theoretical att
 
 ## Shock compression
 
-Within molecular clouds, which are cold and compact parts of interstellar space, multiple processes can trigger the creation of shock waves. These processes could be the collision of diverse gas streams or the movement of the cloud itself through the encompassing interstellar medium. When these shock waves travel through the gas in a molecular cloud, they condense the gas, increasing its density. The condensation brought about by shock waves is pivotal for setting in motion the process of gravitational collapse, ultimately leading to the formation of stars. Through this gas compression, shock waves enhance the density of specific regions within the cloud. These denser areas are more apt to overcome the internal gas pressure and commence collapsing under the influence of gravity.
+Within molecular clouds, which are cold and compact parts of interstellar space, multiple processes can trigger the creation of shock waves. These processes could be the collision of diverse gas streams or the movement of the cloud itself through the encompassing interstellar medium. When these shock waves travel through the gas in a molecular cloud, they condense the gas, increasing its density. The condensation brought about by shock waves can be a key factor for setting in motion the process of gravitational collapse, ultimately leading to the formation of stars. Through this gas compression, shock waves enhance the density of specific regions within the cloud. These denser areas are more apt to overcome the internal gas pressure and commence collapsing under the influence of gravity.
 
 ## Self-similarity
 

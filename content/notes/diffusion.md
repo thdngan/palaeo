@@ -1,5 +1,5 @@
 ---
-title: Diffusion
+title: diffusion
 tags:
   - notes
 date: 2024-05-14
