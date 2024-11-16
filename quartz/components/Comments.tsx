@@ -5,7 +5,7 @@ export default (() => {
     return (
       <script
         src="https://giscus.app/client.js"
-        data-repo="thdngan/arboretum"
+        data-repo="thdngan/palaeo"
         data-repo-id="R_kgDOHxknJg"
         data-category="Announcements"
         data-category-id="DIC_kwDOHxknJs4CfhAs"

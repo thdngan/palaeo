@@ -100,7 +100,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Remark42({ host: "https://thdngan.github.io/arboretum/", site_id: "remark", theme: "dark", no_footer: true }),
+      Plugin.Remark42({ host: "https://thdngan.github.io/palaeo/", site_id: "remark", theme: "dark", no_footer: true }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
