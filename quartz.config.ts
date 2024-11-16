@@ -9,13 +9,13 @@ import * as Component from "./quartz/components"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "L'arboretum", /**🐧 */
+    pageTitle: "Palaeo", /**🐧 */
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "thdngan.github.io/arboretum",
+    baseUrl: "thdngan.github.io/palaeo",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
