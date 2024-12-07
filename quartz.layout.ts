@@ -33,26 +33,26 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     
-    Component.DesktopOnly(Component.TableOfContents()),
+    // Component.DesktopOnly(Component.TableOfContents()),
     // Component.TableOfContents(),
-    Component.DesktopOnly(
-      Component.RecentNotes({
-        title: "Recent Posts",
-        limit: 2,
-        filter: (f) =>
-          f.slug!.startsWith("posts/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
-        linkToMore: "posts/" as SimpleSlug,
-      }),
-    ),
-    Component.DesktopOnly(
-    Component.RecentNotes({
-      title: "Recent Notes",
-      limit: 2,
-      filter: (f) =>
-        f.slug!.startsWith("notes/") && f.slug! !== "notes/index" && !f.frontmatter?.noindex,
-      linkToMore: "notes/" as SimpleSlug,
-    }),
-  ),
+    // Component.DesktopOnly(
+    //   Component.RecentNotes({
+    //     title: "Recent Posts",
+    //     limit: 2,
+    //     filter: (f) =>
+    //       f.slug!.startsWith("posts/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
+    //     linkToMore: "posts/" as SimpleSlug,
+    //   }),
+    // ),
+  //   Component.DesktopOnly(
+  //   Component.RecentNotes({
+  //     title: "Recent Notes",
+  //     limit: 2,
+  //     filter: (f) =>
+  //       f.slug!.startsWith("notes/") && f.slug! !== "notes/index" && !f.frontmatter?.noindex,
+  //     linkToMore: "notes/" as SimpleSlug,
+  //   }),
+  // ),
 
     // Component.DesktopOnly(Component.Explorer())
     ],
@@ -79,7 +79,7 @@ export const defaultContentPageLayout: PageLayout = {
   // Component.Explorer(),
   // Component.DesktopOnly(Component.TagList()),
   Component.Backlinks(),
-  Component.DesktopOnly(Component.TagList()),
+  // Component.DesktopOnly(Component.TagList()),
 ],
   
 }
