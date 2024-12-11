@@ -1,9 +1,8 @@
 ---
 title: Daisy World
 date: 2023-05-14
-tags:
-  - climate
-  - notebooks
+tags: []
+draft: true
 ---
 # Background
 
